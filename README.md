@@ -1,5 +1,10 @@
 # CH552_DevelopmentBoard_2023
 ## Description
+This CH552 USB Dongle Development board is designed to support our short, engaging, and cost-effective STEAM-related activity/workshop offered during the Penang International Science Fair. 
+
+With an extremely tight budget, we had to explore alternative low-cost MCU options that still provided ample learning potential and aligned with the STEM curriculum suggested for the local STEM curriculum. 
+
+The result is a low-cost development board that is Arduino compatible (C Language only). It allows participants to experience and explore the various topics in embedded software development using onboard sensors through a series of guided exercises.
 
 ## Features Overview
 ![alt text](https://github.com/TomatoCube18/CH552_DevelopmentBoard_2023/blob/main/image/FeaturesOverview.png)

@@ -7,7 +7,7 @@ With an extremely tight budget, we had to explore alternative low-cost MCU optio
 The result is a low-cost development board that is Arduino compatible (C Language only). It allows participants to experience and explore the various topics in embedded software development using onboard sensors through a series of guided exercises.
 
 ## Features Overview
-![alt text](https://github.com/TomatoCube18/CH552_DevelopmentBoard_2023/blob/main/image/FeaturesOverview.png)
+![alt text](https://github.com/TomatoCube18/CH552_DevelopmentBoard_2023/blob/main/images/FeaturesOverview.png)
 
 ## Installation
 

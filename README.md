@@ -1,4 +1,7 @@
 # CH552_DevelopmentBoard_2023
+## Description
+
+## Features Overview
 ![alt text](https://github.com/TomatoCube18/CH552_DevelopmentBoard_2023/blob/main/image/FeaturesOverview.png)
 
 ## Installation

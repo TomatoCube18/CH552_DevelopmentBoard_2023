@@ -1,4 +1,5 @@
 # CH552_DevelopmentBoard_2023
+![alt text](https://github.com/TomatoCube18/CH552_DevelopmentBoard_2023/blob/main/images/Front_Back.png)
 ## Description
 This CH552 USB Dongle Development board is designed to support our short, engaging, and cost-effective STEAM-related activity/workshop offered during the Penang International Science Fair. 
 
